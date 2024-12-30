@@ -1,6 +1,7 @@
-# It Program will do *SUM*, *Difference*, *product*
+# It Program will to do numbers *SUM*, *Difference*, *product*
 
-basically it make ane difference at time like input 4 3 
+Basically it program take input numbers like first input 4 and second input 5 then it program automatically will to do  *sum*, *difference* *product*
+
 first will do **sum**
 first will do **difference**
 first will do **product**
