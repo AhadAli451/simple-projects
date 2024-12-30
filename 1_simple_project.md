@@ -1,3 +1,12 @@
+# It Program will do *SUM*, *Difference*, *product*
+
+basically it make ane difference at time like input 4 3 
+first will do **sum**
+first will do **difference**
+first will do **product**
+
+it's simple program 
+
 ```python
 def main():
 
